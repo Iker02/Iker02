@@ -10,6 +10,29 @@
 
 ---
 
+<div>
+  <p>🎓︎ I am currently learning:</p>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42px" />
+        <br />React
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42px" />
+        <br />Next.js
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42px" />
+        <br />AWS
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 👨‍🎓 Formación
 
 - 📚 Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) – 2 años de formación intensiva.
