@@ -28,6 +28,10 @@
         <br />Angular
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="42px" />
+        <br />Vue.js
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42px" />
         <br />Node.js
       </td>
@@ -38,6 +42,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 
