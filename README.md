@@ -1,9 +1,9 @@
 <h3 align="center">
-  ¡Bienvenido a mi perfil! 👋 Soy Iker
+  Welcome to my profile! 👋 I'm Iker
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=Desarrollador+de+Software+en+constante+aprendizaje;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Siempre+buscando+el+pr%C3%B3ximo+reto+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=Software+Developer+in+constant+learning;Passionate+about+technology+and+innovation;Always+looking+for+the+next+challenge+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Iker02&show_icons=true&title_color=ffffff&icon_color=00d13b&text_color=9f9f9f&bg_color=000000&border_color=00d13b&include_all_commits=true" width="400"/>
@@ -39,46 +39,45 @@
   </table>
 </div>
 
+---
+
+## 👨‍🎓 Education
+
+- 📚 Technician in Cross-Platform Application Development (DAM) – 2 years of intensive training.
+- 🎓 Currently studying Software Engineering.
+- 🇬🇧 English: **C1 (Advanced)**
 
 ---
 
-## 👨‍🎓 Formación
+## 💼 Experience
 
-- 📚 Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) – 2 años de formación intensiva.
-- 🎓 Estudiante de Ingeniería de Software.
-- 🇬🇧 Inglés: **C1 (avanzado)**
+- 💻 Currently working as a **software developer**, applying best practices and modern technologies in real-world projects.
 
 ---
 
-## 💼 Experiencia
+## 🚀 What am I learning?
 
-- 💻 Actualmente trabajo como **desarrollador de software**, aplicando buenas prácticas y tecnologías modernas en proyectos reales.
-
----
-
-## 🚀 ¿Qué estoy aprendiendo?
-
-- ⚙️ Tecnologías frontend y backend  
-- 💡 Frameworks modernos: Angular, React  
-- ☁️ Servicios en la nube y bases de datos: Firebase, Firestore  
-- 🧠 Arquitectura de software y buenas prácticas
+- ⚙️ Frontend and backend technologies  
+- 💡 Modern frameworks: Angular, React  
+- ☁️ Cloud services and databases: Firebase, Firestore  
+- 🧠 Software architecture and best practices
 
 ---
 
-## 🤝 ¿Colaboramos?
+## 🤝 Open to Collaboration
 
-Estoy abierto a participar en proyectos de:
+I'm open to collaborating on:
 
-- Desarrollo web
-- Aplicaciones móviles
-- Videojuegos
-- Herramientas educativas
+- Web development  
+- Mobile applications  
+- Video games  
+- Educational tools
 
-Aprender de otros y aportar lo que sé es algo que me motiva mucho.
+Learning from others and contributing what I know truly motivates me.
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:iker.moreno002@gmail.com">
@@ -94,10 +93,10 @@ Aprender de otros y aportar lo que sé es algo que me motiva mucho.
 
 ---
 
-## 🧠 Curiosidades
+## 🧠 Fun Facts
 
-Me encanta crear cosas que no existían antes. Ya sea una app útil o un reto de programación divertido, siempre estoy buscando el próximo desafío. 💡
+I love creating things that didn’t exist before. Whether it’s a useful app or a fun coding challenge, I’m always looking for the next big idea. 💡
 
 ---
 
-> *Este README es solo una pequeña ventana a lo que hago. Si tienes una idea, ¡hablemos!*
+> *This README is just a small window into what I do. If you have an idea, let’s talk!*
