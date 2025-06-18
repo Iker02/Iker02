@@ -40,7 +40,8 @@ Estoy abierto a colaborar en proyectos interesantes relacionados con el desarrol
 Puedes encontrarme o escribirme a través de:
 
 - GitHub: [@Iker02](https://github.com/Iker02)
-- (Aquí puedes añadir LinkedIn, email u otra red si lo deseas)
+- Mail: [iker.moreno002@gmail.com](iker.moreno002@gmail.com)
+- Linkedin: [Iker Madariaga Moreno](https://www.linkedin.com/in/iker-madariaga-moreno-4b2428346/)
 
 ---
 
