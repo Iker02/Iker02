@@ -11,7 +11,7 @@
 ---
 
 <div>
-  <p>🎓︎ I am currently learning:</p>
+  <p>🎓 I am currently learning:</p>
 
   <table>
     <tr>
