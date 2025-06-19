@@ -33,7 +33,7 @@
         <br />Vue.js
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodedotjs/nodedotjs-original.svg" height="42px" />
         <br />Node.js
       </td>
       <td align="center">
