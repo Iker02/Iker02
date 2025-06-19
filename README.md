@@ -80,7 +80,7 @@ I'm open to collaborating on:
 
 Learning from others and contributing what I know truly motivates me.
 
----
+--- 
 
 ## 📫 Contact
 
