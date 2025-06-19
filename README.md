@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=Software+Developer+in+constant+learning;Passionate+about+technology+and+innovation;Always+looking+for+the+next+challenge+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Iker02&show_icons=true&title_color=ffffff&icon_color=00d13b&text_color=9f9f9f&bg_color=000000&border_color=00d13b&include_all_commits=true" width="400"/>
+<img align="right" src="[https://github-readme-stats.vercel.app/api?username=Iker02&show_icons=true&title_color=ffffff&icon_color=00d13b&text_color=9f9f9f&bg_color=000000&border_color=00d13b&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Iker02&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)" width="400"/>
 
 ---
 
