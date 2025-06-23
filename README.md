@@ -33,7 +33,7 @@
         <br />Vue.js
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42px" />
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://www.liblogo.com/img-logo/no6273w13b-node-js-logo-what-does-it-take-to-support-node-js-esm-the-guild-blog.png)" height="42px" />
         <br />Node.js
       </td>
       <td align="center">
